@@ -11,5 +11,5 @@ Este estos son una serie de ejercicios los cuales no requieren recargar la pagin
 - JSON
 - Boostrap
 
-Funcionamiento
+## Funcionamiento
 ![Inicio](Video/Json.gif)
